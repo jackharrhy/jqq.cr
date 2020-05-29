@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  ncurses:
+    github: SamualLB/ncurses
+    version: 0.0.8
+
